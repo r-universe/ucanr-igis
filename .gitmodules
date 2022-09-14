@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "degday"]
+	path = degday
+	url = https://github.com/ucanr-igis/degday
+	shallow = true
+	registered = true
